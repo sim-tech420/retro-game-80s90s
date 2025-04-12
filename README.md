@@ -3,7 +3,7 @@ A retro 1980s/1990s text-based murder mystery in Pygame. Track a zodiac-obsessed
 
 ## How to Run
 1. Install Python and Pygame (`pip install pygame`).
-2. Optionally, add "Press Start 2P" font to the project folder.
+2. Optionally, add "Press Start 2P" font to the project folder (download from Google Fonts).
 3. Run `python main.py`.
 
 ## Features
